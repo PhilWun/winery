@@ -33,7 +33,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/PhilWun/winery</url>
+            <url>https://maven.pkg.github.com/OpenTOSCA/winery</url>
         </repository>
     </distributionManagement>
     <mailingLists>
